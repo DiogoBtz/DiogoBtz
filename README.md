@@ -35,15 +35,15 @@ Uma aplicação que reúne desenvolvimento, armazenamento local e conexão com s
 
 <br>
 
-| Ambiente | Dados |
-| :--- | :--- |
-| Windows | SQLite local |
+### APIs e integrações
 
-**APIs e integrações opcionais**
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Graph-2563EB?style=for-the-badge" alt="Microsoft Graph" />
+<img src="https://img.shields.io/badge/DocuSign-7C3AED?style=for-the-badge" alt="DocuSign" />
+<img src="https://img.shields.io/badge/Dell-0891B2?style=for-the-badge&logo=dell&logoColor=white" alt="Dell" />
+</p>
 
-<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square" alt="Microsoft Graph" />
-<img src="https://img.shields.io/badge/DocuSign-FFCC22?style=flat-square" alt="DocuSign" />
-<img src="https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white" alt="Dell" />
+<sub>Integrações opcionais disponíveis na edição cliente.</sub>
 
 <br>
 
