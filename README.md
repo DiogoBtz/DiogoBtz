@@ -1,64 +1,99 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:22D3EE&height=210&section=header&text=DiogoBtz&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%C2%B7%20BUILD%20%C2%B7%20EVOLVE&descAlignY=60&descSize=18" alt="DiogoBtz — Code · Build · Evolve" />
-
-<a href="https://github.com/DiogoBtz?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MEUS_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus projetos" /></a>
-<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/PROJETO_INVY-0891B2?style=for-the-badge&logo=windows&logoColor=white" alt="Projeto Invy" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,100:312E81&height=170&text=DiogoBtz&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Aprendendo%20a%20construir%20solu%C3%A7%C3%B5es%20com%20c%C3%B3digo&descSize=17&descAlignY=68" alt="DiogoBtz — Aprendendo a construir soluções com código" />
 
 <br><br>
 
-### 👾 Bem-vindo ao meu universo de código
+### Olá, seja bem-vindo 👋
 
-Projetos, ideias e evolução — um commit de cada vez.
+Estou no início da minha jornada em programação.<br>
+Este espaço reúne meus estudos, experiências e projetos em evolução.
 
-</div>
+<br>
 
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DiogoBtz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&locale=pt-br" alt="Estatísticas públicas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBtz&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" alt="Linguagens dos repositórios públicos" />
-
-</div>
-
-## ⚡ Universo de tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,c,lua,html,css,sqlite,git,github,vscode,linux,powershell&perline=7" alt="Python, JavaScript, Java, C, Lua, HTML, CSS, SQLite, Git, GitHub, VS Code, Linux e PowerShell" />
+<a href="https://github.com/DiogoBtz?tab=repositories"><img src="https://img.shields.io/badge/VER_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
+<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/CONHECER_O_INVY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Conhecer o Invy" /></a>
 
 </div>
 
 <br>
 
-## 🚀 Explore os projetos
+## 🌱 Aprendizado em prática
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Invy
-Distribuição do Invy para Windows.
+**Fundamentos**
 
-<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Invy" /></a>
+Lógica de programação, exercícios e pequenos projetos para aprender fazendo.
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Main Doador
-Projeto de estudo inspirado em uma aula de Python da FIAP.
+**Construção**
 
-<a href="https://github.com/DiogoBtz/main-doador"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Main Doador" /></a>
+Explorar ferramentas, testar ideias e melhorar os projetos a cada etapa.
 
 </td>
 </tr>
 </table>
 
+## 🧩 Tecnologias nos meus estudos
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0D1117&height=100&section=footer" alt="Rodapé em ondas roxas e azuis" />
+<img src="https://skillicons.dev/icons?i=python,js,java,c,lua,html,css&theme=dark" alt="Python, JavaScript, Java, C, Lua, HTML e CSS" />
+
+<br><br>
+
+**Ferramentas e ambiente**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,linux,powershell&theme=dark" alt="Git, GitHub, VS Code, SQLite, Linux e PowerShell" />
+
+</div>
+
+<br>
+
+## 📂 Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Invy
+Distribuição do Invy para Windows.
+
+**Um projeto para conhecer de perto.**
+
+<br>
+
+<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/EXPLORAR_INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Invy" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Main Doador
+Projeto de estudo inspirado em uma aula de Python da FIAP.
+
+**Parte do meu caminho de aprendizado.**
+
+<br>
+
+<a href="https://github.com/DiogoBtz/main-doador"><img src="https://img.shields.io/badge/VER_PROJETO-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Main Doador" /></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**Aprender • Praticar • Evoluir**
+
+<sub>Projetos em construção. Aprendizado constante.</sub>
 
 </div>
