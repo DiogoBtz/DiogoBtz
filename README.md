@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,55:312E81,100:0E7490&height=170&text=DiogoBtz&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=C%C3%B3digo%20%C2%B7%20Tecnologia%20%C2%B7%20Solu%C3%A7%C3%B5es&descSize=18&descAlignY=67" alt="DiogoBtz — Código · Tecnologia · Soluções" />
+<img width="100%" src="./assets/profile-banner.svg" alt="DiogoBtz — Código · Tecnologia · Soluções" />
 
 ### Desenvolvendo ideias. Construindo soluções.
 
