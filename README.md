@@ -1,55 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,100:312E81&height=170&text=DiogoBtz&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Aprendendo%20a%20construir%20solu%C3%A7%C3%B5es%20com%20c%C3%B3digo&descSize=17&descAlignY=68" alt="DiogoBtz — Aprendendo a construir soluções com código" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,100:312E81&height=150&text=DiogoBtz&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Aprendizado%20em%20pr%C3%A1tica%20%C2%B7%20Projetos%20em%20evolu%C3%A7%C3%A3o&descSize=16&descAlignY=70" alt="DiogoBtz — Aprendizado em prática · Projetos em evolução" />
 
 <br><br>
 
 ### Olá, seja bem-vindo 👋
 
-Estou no início da minha jornada em programação.<br>
-Este espaço reúne meus estudos, experiências e projetos em evolução.
-
-<br>
-
-<a href="https://github.com/DiogoBtz?tab=repositories"><img src="https://img.shields.io/badge/VER_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
-<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/CONHECER_O_INVY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Conhecer o Invy" /></a>
+Estou construindo minha jornada em programação.<br>
+Aqui compartilho projetos e o que aprendo ao desenvolvê-los.
 
 </div>
 
 <br>
 
-## 🌱 Aprendizado em prática
+## Projeto em destaque
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**Fundamentos**
-
-Lógica de programação, exercícios e pequenos projetos para aprender fazendo.
-
+<td width="32%" align="center" valign="middle">
+<a href="https://github.com/DiogoBtz/Invy">
+<img width="220" src="https://raw.githubusercontent.com/DiogoBtz/Invy/main/invy-logo.jpg" alt="Logo do Invy" />
+</a>
 </td>
-<td width="50%" valign="top">
+<td width="68%" valign="top">
 
-**Construção**
+### INVY
+**Aplicação para Windows**
 
-Explorar ferramentas, testar ideias e melhorar os projetos a cada etapa.
+Meu principal projeto em destaque no GitHub. A edição cliente reúne a aplicação em um pacote para Windows, com banco SQLite local e integrações opcionais.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows" />
+
+**Integrações opcionais:** Dell · Microsoft Graph · DocuSign
+
+<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/CONHECER_O_INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Conhecer o Invy" /></a>
+<a href="https://github.com/DiogoBtz/Invy/blob/main/README_DISTRIBUICAO.md"><img src="https://img.shields.io/badge/DOCUMENTAÇÃO-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentação do Invy" /></a>
 
 </td>
 </tr>
 </table>
 
-## 🧩 Tecnologias nos meus estudos
+<br>
+
+## Tecnologias que estou explorando
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,java,c,lua,html,css&theme=dark" alt="Python, JavaScript, Java, C, Lua, HTML e CSS" />
 
-<br><br>
-
-**Ferramentas e ambiente**
+</div>
 
 <br>
+
+### Ferramentas e ambiente
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,linux,powershell&theme=dark" alt="Git, GitHub, VS Code, SQLite, Linux e PowerShell" />
 
@@ -57,43 +64,12 @@ Explorar ferramentas, testar ideias e melhorar os projetos a cada etapa.
 
 <br>
 
-## 📂 Projetos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Invy
-Distribuição do Invy para Windows.
-
-**Um projeto para conhecer de perto.**
-
-<br>
-
-<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/EXPLORAR_INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Invy" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Main Doador
-Projeto de estudo inspirado em uma aula de Python da FIAP.
-
-**Parte do meu caminho de aprendizado.**
-
-<br>
-
-<a href="https://github.com/DiogoBtz/main-doador"><img src="https://img.shields.io/badge/VER_PROJETO-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Main Doador" /></a>
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
 
-**Aprender • Praticar • Evoluir**
+**Aprender fazendo. Evoluir construindo.**
 
-<sub>Projetos em construção. Aprendizado constante.</sub>
+<a href="https://github.com/DiogoBtz?tab=repositories">Explorar os repositórios →</a>
 
 </div>
