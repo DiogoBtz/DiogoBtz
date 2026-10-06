@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,55:312E81,100:0E7490&height=150&text=DiogoBtz&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Aprendizado%20em%20pr%C3%A1tica%20%C2%B7%20Projetos%20em%20evolu%C3%A7%C3%A3o&descSize=16&descAlignY=70" alt="DiogoBtz — Aprendizado em prática · Projetos em evolução" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:17122B,55:312E81,100:0E7490&height=170&text=DiogoBtz&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=C%C3%B3digo%20%C2%B7%20Tecnologia%20%C2%B7%20Solu%C3%A7%C3%B5es&descSize=18&descAlignY=67" alt="DiogoBtz — Código · Tecnologia · Soluções" />
 
-<br><br>
+### Desenvolvendo ideias. Construindo soluções.
 
-### Olá, seja bem-vindo 👋
+Aprendo programação criando projetos e resolvendo problemas na prática.<br>
+Meu foco aqui é compartilhar essa evolução — com o **Invy** em destaque.
 
-Estou construindo minha jornada em programação.<br>
-Aqui compartilho projetos e o que aprendo ao desenvolvê-los.
+<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Projeto em destaque: Invy" /></a>
 
 </div>
 
-<br>
+---
 
 ## 🚀 Projeto em destaque
 
