@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="DiogoBtz — Código, tecnologia e soluções">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101321"/><stop offset="1" stop-color="#17152e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9c91db" stroke-opacity=".06"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#34334d"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#grid)"/>
+<rect x="52" y="52" width="4" height="196" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="84" y="78" fill="#a78bfa" font-size="14" font-weight="600" letter-spacing="4">DIОGOBTZ / GITHUB</text>
+<text x="80" y="155" fill="#f4f3ff" font-size="62" font-weight="700" letter-spacing="-2">DiogoBtz<tspan fill="#22d3ee">.</tspan></text>
+<text x="84" y="199" fill="#bac1d6" font-size="21">Código · Tecnologia · Soluções</text>
+<rect x="84" y="224" width="192" height="27" rx="13" fill="#24203c" stroke="#494065"/>
+<circle cx="99" cy="238" r="3" fill="#22d3ee"/>
+<text x="111" y="242" fill="#cec5ed" font-size="12" letter-spacing="1">APRENDIZADO EM PRÁTICA</text>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".35">
+<path d="M775 65H875L920 110H1135M765 230H850L890 190H1140M940 45V80L995 135H1160M980 265V220L1025 175H1160"/>
+<circle cx="775" cy="65" r="4"/><circle cx="765" cy="230" r="4"/><circle cx="1135" cy="110" r="4"/><circle cx="1140" cy="190" r="4"/>
+</g>
+<rect x="788" y="97" width="172" height="105" rx="15" fill="#141727" stroke="#615689"/>
+<text x="874" y="163" text-anchor="middle" fill="url(#accent)" font-family="Consolas,monospace" font-size="46" font-weight="700">&lt;/&gt;</text>
+</svg>
