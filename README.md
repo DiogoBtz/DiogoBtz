@@ -7,7 +7,7 @@
 Aprendo programação criando projetos e resolvendo problemas na prática.<br>
 Meu foco aqui é compartilhar essa evolução — com o **Invy** em destaque.
 
-<a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Projeto em destaque: Invy" /></a>
+
 
 </div>
 
@@ -27,7 +27,7 @@ Meu foco aqui é compartilhar essa evolução — com o **Invy** em destaque.
 ### INVY
 **Aplicação para Windows**
 
-Uma aplicação que reúne desenvolvimento, armazenamento local e conexão com serviços externos. A edição cliente é distribuída para Windows.
+Edição cliente para Windows, com armazenamento SQLite local e integrações opcionais com serviços externos.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -38,17 +38,19 @@ Uma aplicação que reúne desenvolvimento, armazenamento local e conexão com s
 ### APIs e integrações
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Graph-2563EB?style=for-the-badge" alt="Microsoft Graph" />
-<img src="https://img.shields.io/badge/DocuSign-7C3AED?style=for-the-badge" alt="DocuSign" />
-<img src="https://img.shields.io/badge/Dell-0891B2?style=for-the-badge&logo=dell&logoColor=white" alt="Dell" />
+<a href="https://learn.microsoft.com/graph/overview" title="Documentação oficial de Microsoft Graph"><img src="https://img.shields.io/badge/Microsoft_Graph-2563EB?style=for-the-badge" alt="Microsoft Graph" /></a>
+<a href="https://developers.docusign.com/" title="Documentação oficial de DocuSign"><img src="https://img.shields.io/badge/DocuSign-7C3AED?style=for-the-badge" alt="DocuSign" /></a>
+<a href="https://developer.dell.com/" title="Documentação oficial de Dell"><img src="https://img.shields.io/badge/Dell-0891B2?style=for-the-badge&logo=dell&logoColor=white" alt="Dell" /></a>
 </p>
 
-<sub>Integrações opcionais disponíveis na edição cliente.</sub>
+<sub>Clique em uma integração para conhecer a documentação oficial.</sub>
 
 <br>
 
 <a href="https://github.com/DiogoBtz/Invy"><img src="https://img.shields.io/badge/CONHECER_O_INVY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Conhecer o Invy" /></a>
 <a href="https://github.com/DiogoBtz/Invy/blob/main/README_DISTRIBUICAO.md"><img src="https://img.shields.io/badge/DOCUMENTAÇÃO-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentação do Invy" /></a>
+
+<br><sub>Para abrir os links em uma nova guia, use Ctrl + clique (⌘ + clique no Mac).</sub>
 
 </td>
 </tr>
